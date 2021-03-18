@@ -1,9 +1,7 @@
-title: Code Gallery Sample Entry
-description: |
-  Code
+title: Responsive Menu with Pure JavaScript
+description: Responsive Menu with Pure JavaScript without jQuery dependency.
 type: module
-categories: Menus and navigation, Galleries, Buttons
-demo_url: https://example.com/demo
-video_url: https://example.com/video
-hubspot_url: https://marketplace.hubspot.com/path/to/listing
+categories: Menus and navigation
+demo_url: http://5015485.hs-sites.com/demo/responsive-menu
+
 
